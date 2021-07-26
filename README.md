@@ -1,3 +1,3 @@
 # Linux-MAC-Changer
 
-A simple tool to change the MAC Address in linux.
+A simple tool to change the MAC Address in linux via Terminal
